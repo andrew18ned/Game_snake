@@ -2,6 +2,6 @@
 
 ### Used
 * Tkiner
-* 
+
 ## Run
 python snake.py
