@@ -1,3 +1,7 @@
-# Game_snake
-Моя гра "Змійка" написана на бібліоте Пайнтона tkinter.
-Щоб зіграти треба скачать код та прописати в терміналі таке: python Snake/snake.py
+# My game Snake
+
+###Used
+* Tkiner
+* 
+## Run
+python snake.py
