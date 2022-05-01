@@ -8,4 +8,4 @@
 ## Run
 source env/bin/activate  
 cd app  
-python snake.py
+python main.py
